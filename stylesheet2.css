@@ -43,6 +43,7 @@ h1 {
     height: 30px;
     background-color: transparent;
     cursor: pointer;
+    border: transparent;
 }
 
 /* Modal window styling */
